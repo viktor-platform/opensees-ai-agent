@@ -1,0 +1,4 @@
+app_type = "simple"
+python_version = "3.12"
+registered_name = "opensees-ai-agent"
+packages = ["libblas3"]
